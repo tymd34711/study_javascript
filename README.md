@@ -13,6 +13,7 @@
       - [Utilities](https://getbootstrap.jp/docs/5.3/layout/utilities/)
         - [Flex](https://getbootstrap.jp/docs/5.3/utilities/flex/)
         - [Spacing](https://getbootstrap.jp/docs/5.3/utilities/spacing/)
+- htmlのオブジェクトを変数に入れるときには「$」を先頭につけるお約束
 
 ## javascriptの基礎
 - let: 変数を宣言
