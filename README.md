@@ -6,13 +6,13 @@
 - [BootStrap](https://getbootstrap.jp/docs/5.0/getting-started/introduction/)
     - ボタン、見出し、リストなどのパーツをコピペで使えるように提供しているフレームワーク
     - Compornents
-      - (Alerts)[https://getbootstrap.jp/docs/5.3/components/alerts/]
-      - (Buttons)[https://getbootstrap.jp/docs/5.3/components/buttons/]
+      - [Alerts](https://getbootstrap.jp/docs/5.3/components/alerts/)
+      - [Buttons](https://getbootstrap.jp/docs/5.3/components/buttons/)
     - Layout
-      - (Containers)[https://getbootstrap.jp/docs/5.3/layout/containers/]
-      - (Utilities)[https://getbootstrap.jp/docs/5.3/layout/utilities/]
-        - (Flex)[https://getbootstrap.jp/docs/5.3/utilities/flex/]
-        - (Spacing)[https://getbootstrap.jp/docs/5.3/utilities/spacing/]
+      - [Containers](https://getbootstrap.jp/docs/5.3/layout/containers/)
+      - [Utilities](https://getbootstrap.jp/docs/5.3/layout/utilities/)
+        - [Flex](https://getbootstrap.jp/docs/5.3/utilities/flex/)
+        - [Spacing](https://getbootstrap.jp/docs/5.3/utilities/spacing/)
 
 ## javascriptの基礎
 - let: 変数を宣言
